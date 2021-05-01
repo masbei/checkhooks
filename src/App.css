@@ -1,0 +1,15 @@
+.card:hover{
+    transform: scale(1.05);
+}
+.App{
+    background-color: #189dc3;
+}
+.card{
+    background-color: #c0cad4;
+}
+nav{
+    lighting-color: blueviolet;
+}
+img{
+    height: 300px;
+}
