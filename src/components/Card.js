@@ -1,6 +1,6 @@
 import React from 'react'
 
-
+import {Link} from 'react-router-dom'
 
 const Card = ({movie}) => {
     return (
@@ -21,7 +21,7 @@ const Card = ({movie}) => {
 <br/>
 
   
-    <a href="#" class="btn btn-primary">More details</a>
+    <Link to={`/desc/${movie.name}`}class="btn btn-primary">More details</Link>
   </div>
 </div>
             

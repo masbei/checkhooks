@@ -6,8 +6,11 @@ duration:"106 Min",
 year:"2021",
 rating:"4",
 image:'https://media.senscritique.com/media/000019951246/source_big/Thunder_Force.jpg',
-
+description:"",
+trailer:"https://www.youtube.com/embed/qnx6-YLXFwg",
 },
+
+
 
 {
 name:"Falcon et le soldat de l'hiver",
@@ -16,7 +19,8 @@ duration:"50 Min",
 year:"2021",
 rating:"7",
 image:'https://www.ecranlarge.com/uploads/image/001/366/falcon-et-le-soldat-de-lhiver-affiche-francaise-1366175.jpg',
-    
+description:"",
+trailer:"",   
     },
 {
 name:"Line of Duty",
@@ -25,7 +29,8 @@ duration:"60 Min",
 year:"2012",
 rating:"8",
 image:'https://m.media-amazon.com/images/M/MV5BMTExZDZjNTMtNDVmNy00ZTk2LWFiMzUtZDlkZGRlOGU0ZWRmXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_.jpg',
-        
+description:"",
+trailer:"",       
         },    
 
 {
@@ -35,7 +40,8 @@ duration:"24 Min",
 year:"2013",
 rating:"9",           
 image:'https://fr.web.img6.acsta.net/pictures/20/12/28/10/24/5603983.jpg',                       
-            
+description:"",
+trailer:"",           
 },
 
 {
@@ -53,7 +59,9 @@ category:"",
 duration:"162 Min",                    
 year:"2001",                    
 rating:"7",                    
-image:'https://fr.web.img2.acsta.net/pictures/18/07/02/17/25/3643090.jpg',       }
+image:'https://fr.web.img2.acsta.net/pictures/18/07/02/17/25/3643090.jpg',  
+description:"",
+trailer:"https://www.youtube.com/embed/ht5T2thYQFk",     }
 
 
 ]
